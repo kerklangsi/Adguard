@@ -41,3 +41,5 @@
 ||mail-ads.google.com^
 ||marketingplatform.google.com^
 ||urchin.com^
+||www.googleadservices.com^
+||rr4---sn-uh-h31s.googlevideo.com^
