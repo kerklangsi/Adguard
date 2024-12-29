@@ -1638,3 +1638,4 @@
 ||r18---sn-nv47lnel.googlevideo.com^
 ||r19---sn-nv47lnel.googlevideo.com^
 ||r20---sn-nv47lnel.googlevideo.com^
+||i9.ytimg.com^
