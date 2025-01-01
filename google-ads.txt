@@ -43,6 +43,7 @@
 ||googleads-cn.com^
 ||googleads.com^
 ||googleadservices-cn.com^
+||googleads.g.doubleclick.net^
 ||googleadservices.com^
 ||googleadsserving.cn^
 ||googleanalytics.com^
@@ -70,3 +71,4 @@
 ||adsensecustomsearchads.org^
 ||adsenseformobileapps.com^
 ||adsgoogle.com^
+||static.doubleclick.net^
