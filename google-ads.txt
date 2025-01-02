@@ -59,4 +59,9 @@
 ||googlevads-cn.com^
 ||mail-ads.google.com^
 ||marketingplatform.google.com^
+||promotargeting.com^
+||promotargeting.net^
+||promotionbuildr.com^
+||promotionsbuildr.com^
+||promotionshq.com^
 ||urchin.com^
