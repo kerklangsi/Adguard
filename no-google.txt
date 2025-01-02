@@ -1,26 +1,13 @@
-!
-! Title: No Google
-! Description: Completely blocks all Google-related domains (including YouTube).
-! Version: 1.0.14.50
-! Homepage: https://github.com/nickspaargaren/no-google
-! Last modified: 2024-12-27T15:50:14.959Z
-!
-! Compiled by @adguard/hostlist-compiler v1.0.29
-!
+
 ||*-android-context-data.googleapis.com^
 ||*-chromecontentsuggestions-pa.googleapis.com^
-||adgoogle.net^
 ||crashlytics.com^
-||google-analytics-cn.com^
-||google-analytics.com^
-||googleadservices-cn.com^
 ||googlehosted.com^
 ||googleoptimize-cn.com^
 ||googleoptimize.com^
 ||googletagmanager-cn.com^
 ||googletagmanager.com^
 ||googletagservices.com^
-||googlevads-cn.com^
 ||speechs3proto*-pa.googleapis.com^
 ||android.com^
 ||kormo.com^
@@ -30,8 +17,6 @@
 ||gstatic.com^
 ||gstatic.net^
 ||KQu0cL-dnsotls-ds.metric.gstatic.com^
-||2mdn-cn.net^
-||2mdn.net^
 ||agnss.goog^
 ||ai.com^
 ||apigee.com^
@@ -63,19 +48,13 @@
 ||g.cn^
 ||ggoogle.com^
 ||ggpht.com^
-||gmail.com^
 ||gmodules.com^
 ||gogle.com^
 ||goo.gle^
 ||googel.com^
 ||googil.com^
 ||googl.com^
-||google.co.ao^
-||googleadservices.com^
-||googleanalytics.com^
 ||googleapis.co^
-||googleapps.com^
-||googlearth.com^
 ||googleblog.com^
 ||googlebot.com^
 ||googlecdn.org^
@@ -83,7 +62,6 @@
 ||googlecode.com^
 ||googlecommerce.com^
 ||googledomains.com^
-||googledrive.com^
 ||googlee.com^
 ||googleearth.com^
 ||googlegroups.com^
@@ -119,11 +97,6 @@
 ||postrank.com^
 ||privacychoices.org^
 ||privacysandbox.com^
-||promotargeting.com^
-||promotargeting.net^
-||promotionbuildr.com^
-||promotionsbuildr.com^
-||promotionshq.com^
 ||quantumai.google^
 ||remote-settings.nonprod.webservices.mozgcp.net^
 ||remote-settings.prod.webservices.mozgcp.net^
@@ -319,9 +292,6 @@
 ||admobapplicationnetwork.com^
 ||adometry.com^
 ||adrollo.com^
-||ads.cc^
-||ads.cc-dt.com^
-||adsbygoogle.com^
 ||adscapemediainventory.net^
 ||adscapemediainventorytest.net^
 ||adsenceforvideo.com^
@@ -329,21 +299,10 @@
 ||adsensecustomsearchads.com^
 ||adsensecustomsearchads.org^
 ||adsenseformobileapps.com^
-||adservice.google.aw^
-||adservice.google.ax^
-||adservice.google.in^
-||adservice.google.jp^
-||adservice.google.ma^
-||adservice.google.pk^
-||adservice.google.tw^
-||adservice.google.ua^
 ||adsextramilage.co.uk^
 ||adsextramileage.com^
-||adsgoogle.com^
 ||adups.com^
 ||advertiseondish.com^
-||advertisercommunity.com^
-||advertiserscommunity.com^
 ||adwhirl.com^
 ||adwordizing.com^
 ||adwords-community.com^
@@ -512,18 +471,10 @@
 ||google-partners.net^
 ||google-syndicatedsearch.net^
 ||google-syndication.com^
-||google.cx^
-||google.dev^
-||google.eu^
-||google.nf^
 ||google.qualtrics.com^
-||google.us^
 ||googleaccountservices.com^
 ||googleacquisitionmigration.com^
 ||googleadapis.com^
-||googleads-cn.com^
-||googleads.com^
-||googleadsserving.cn^
 ||googleadwords.com^
 ||googleailesi.com^
 ||googleapis.com^
@@ -542,8 +493,6 @@
 ||googlesyndicatedsearch.cl^
 ||googlesyndicatedsearch.com^
 ||googletagservices-cn.com^
-||googletraveladservices-cn.com^
-||googletraveladservices.com^
 ||googleusercontent.com^
 ||googlevideo.com^
 ||googlew.com^
@@ -634,10 +583,6 @@
 ||m80fg.com^
 ||m9dpopwtfu.com^
 ||madewithcode.com^
-||maps.google.com.do^
-||maps.google.com.ly^
-||maps.google.com.na^
-||maps.google.com.vc^
 ||material.io^
 ||mbmxgxxq1a.com^
 ||mdf91.com^
@@ -850,13 +795,6 @@
 ||zyvwtasyon.com^
 ||email-insights.co.uk^
 ||gmail-for-your-domain.info^
-||gmail.co^
-||gmail.de^
-||gmail.dk^
-||gmail.fr^
-||gmail.ie^
-||gmail.kz^
-||gmail.name^
 ||gmailbuch.de^
 ||gmailbuzz.cl^
 ||gmailbuzz.dk^
@@ -864,7 +802,6 @@
 ||gmails.de^
 ||gmailtechnicalsupport.net^
 ||gmailtechsupport.org^
-||googlemail.com^
 ||0utlookmxupdates1.page.link^
 ||0utlookmxverification1.page.link^
 ||0utlookmxverification2.page.link^
