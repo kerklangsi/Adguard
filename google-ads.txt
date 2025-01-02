@@ -71,3 +71,8 @@
 ||adsenseformobileapps.com^
 ||adsgoogle.com^
 ||www.googleadservices.com^$important
+||youtube.com/get_video_info?*
+||youtube.com/api/stats/ads?*
+||youtube.com/youtubei/v1/ads?*
+||youtube.com/pagead/*
+||youtube.com/ad_data_*
