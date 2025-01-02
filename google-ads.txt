@@ -70,7 +70,7 @@
 ||adsensecustomsearchads.org^
 ||adsenseformobileapps.com^
 ||adsgoogle.com^
-||www.googleadservices.com^
+||www.googleadservices.com^$important
 ||i.ytimg.com^
 ||yt1.ggpht.com^
 ||yt2.ggpht.com^
