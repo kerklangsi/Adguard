@@ -52,7 +52,7 @@
 ||googleads-cn.com^
 ||googleads.com^
 ||googleadservices-cn.com^
-||googleadservices.com^
+||googleadservices.com^$important
 ||googleadsserving.cn^
 ||googleanalytics.com^
 ||googleoptimize-cn.com^
