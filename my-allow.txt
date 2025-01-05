@@ -2,6 +2,7 @@
 @@||aniwave.lv^
 @@||aniwave.best^
 @@||animepahe.com^
+@@||androidtvwatsonfe-pa.googleapis.com^
 @@||beacons5.gvt3.com^
 @@||closeload.top^
 @@||duckdns.org^
