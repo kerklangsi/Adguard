@@ -1,6 +1,5 @@
 @@||adobe.io^
-@@||aniwave.lv^
-@@||aniwave.best^
+@@||aniwave.*^
 @@||animepahe.com^
 @@||androidtvwatsonfe-pa.googleapis.com^
 @@||beacons5.gvt3.com^
@@ -29,6 +28,5 @@
 @@||tvseriesnmovies.com^
 @@||tech.unblockedgames.world^
 @@||u6lyxl0w.skin^
-@@||uhdmovies.asia^
-@@||uhdmovies.bet^
+@@||uhdmovies.*^
 @@||vegamovies.ong^
