@@ -15,15 +15,7 @@
 ||adsensecustomsearchads.org^
 ||adsenseformobileapps.com^
 ||adsgoogle.com^
-||adservice.google.com^
-||adservice.google.aw^
-||adservice.google.ax^
-||adservice.google.in^
-||adservice.google.jp^
-||adservice.google.ma^
-||adservice.google.pk^
-||adservice.google.tw^
-||adservice.google.ua^
+||adservice.google.*^
 ||adsextramilage.co.uk^
 ||adsextramileage.com^
 ||advertisercommunity.com^
