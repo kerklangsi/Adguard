@@ -33,6 +33,8 @@
 ||adwordsexpress.com^
 ||app-measurement-cn.com^
 ||app-measurement.com^
+||api.facebook.com^
+||b-api.facebook.com^
 ||clients1.google.com^
 ||clients2.google.com^
 ||clients3.google.com^
@@ -42,10 +44,13 @@
 ||clients7.google.com^
 ||clients8.google.com^
 ||clients9.google.com^
+||chat-e2ee-mini-fallback.facebook.com^
+||chat-e2ee-mini.facebook.com^
 ||doubleclick-cn.net^
 ||doubleclick.cn^
 ||doubleclick.com^
 ||doubleclick.net^
+||edge-mqtt.facebook.com^
 ||google-analytics-cn.com^
 ||google-analytics.com^
 ||googleadapis.com^
@@ -66,6 +71,8 @@
 ||googletraveladservices-cn.com^
 ||googletraveladservices.com^
 ||googlevads-cn.com^
+||gateway-fallback.facebook.com^
+||gateway.facebook.com^
 ||mail-ads.google.com^
 ||marketingplatform.google.com^
 ||promotargeting.com^
@@ -73,4 +80,9 @@
 ||promotionbuildr.com^
 ||promotionsbuildr.com^
 ||promotionshq.com^
+||play.google.com^
+||payments-graph.facebook.com^
+||time.google.com^
 ||urchin.com^
+||youtubei.googleapis.com^
+||web-fallback.facebook.com^
