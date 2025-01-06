@@ -35,15 +35,7 @@
 ||app-measurement.com^
 ||api.facebook.com^
 ||b-api.facebook.com^
-||clients1.google.com^
-||clients2.google.com^
-||clients3.google.com^
-||clients4.google.com^
-||clients5.google.com^
-||clients6.google.com^
-||clients7.google.com^
-||clients8.google.com^
-||clients9.google.com^
+||clients*.google.com^
 ||chat-e2ee-mini-fallback.facebook.com^
 ||chat-e2ee-mini.facebook.com^
 ||doubleclick-cn.net^
