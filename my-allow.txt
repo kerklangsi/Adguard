@@ -23,6 +23,7 @@
 @@||logs.netflix.com^
 @@||ojrq.net^
 @@||remotestream.cc^
+@@||srv*.cdnimages*.sbs^
 @@||survey-smiles.com^
 @@||s.youtube.com^
 @@||tvseriesnmovies.com^
