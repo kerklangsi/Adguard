@@ -20,7 +20,6 @@
 @@||mangadex.org^
 @@||moviesapi.club^
 @@||myfilestorage.xyz^
-@@||logs.netflix.com^
 @@||ojrq.net^
 @@||remotestream.cc^
 @@||srv*.cdnimages*.sbs^
