@@ -1,6 +1,6 @@
 @@||adobe.io^
 @@||aniwave.*^
-@@||animepahe.com^
+@@||animepahe.*^
 @@||androidtvwatsonfe-pa.googleapis.com^
 @@||beacons5.gvt3.com^
 @@||closeload.top^
@@ -13,6 +13,7 @@
 @@||gomovies-online.cam^
 @@||hdmovies4u.day^
 @@||hls.streamsub.top^
+@@||hls9.playmix.uno^
 @@||idlixofficial.co^
 @@||nekopoi.care^
 @@||nhentai.net^
