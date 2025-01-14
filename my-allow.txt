@@ -5,6 +5,7 @@
 @@||beacons5.gvt3.com^
 @@||closeload.top^
 @@||duckdns.org^
+@@||embed.dmovies.top^
 @@||filmxy.vip^
 @@||flixon.lol^
 @@||graph.instagram.com^
