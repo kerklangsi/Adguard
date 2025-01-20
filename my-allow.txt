@@ -22,10 +22,13 @@
 @@||moviesapi.club^
 @@||myfilestorage.xyz^
 @@||ojrq.net^
+@@||piratebayproxy.*^
+@@||roxypirate.*^
 @@||remotestream.cc^
 @@||srv*.cdnimages*.sbs^
 @@||survey-smiles.com^
 @@||s.youtube.com^
+@@||tpirbay.*^
 @@||tvseriesnmovies.com^
 @@||tech.unblockedgames.world^
 @@||u6lyxl0w.skin^
