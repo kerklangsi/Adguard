@@ -69,5 +69,4 @@
 ||payments-graph.facebook.com^
 ||time.google.com^
 ||urchin.com^
-||youtubei.googleapis.com^
 ||web-fallback.facebook.com^
