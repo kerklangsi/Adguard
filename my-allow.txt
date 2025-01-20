@@ -23,7 +23,7 @@
 @@||myfilestorage.xyz^
 @@||ojrq.net^
 @@||piratebayproxy.*^
-@@||roxypirate.*^
+@@||proxypirate.*^
 @@||remotestream.cc^
 @@||srv*.cdnimages*.sbs^
 @@||survey-smiles.com^
