@@ -23,6 +23,7 @@
 @@||myfilestorage.xyz^
 @@||ojrq.net^
 @@||piratebayproxy.*^
+@@||pirateproxy.*^
 @@||proxypirate.*^
 @@||remotestream.cc^
 @@||srv*.cdnimages*.sbs^
